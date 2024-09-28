@@ -1,0 +1,83 @@
+[
+    {
+      "name": "River Market North on 3rd & Grand",
+      "southbound_id": "1600",
+      "northbound_id": "0",
+      "lat": "39.110256",
+      "long": "-94.581435",
+      "display_name": "River Market North"
+    },
+    {
+      "name": "City Market 5th & Walnut",
+      "southbound_id": "0",
+      "northbound_id": "1615",
+      "lat": "39.108444",
+      "long": "-94.581746",
+      "display_name": "City Market"
+    },
+    {
+      "name": "River Market West 4th & Delaware",
+      "southbound_id": "1601",
+      "northbound_id": "0",
+      "lat": "39.108496",
+      "long": "-94.584303",
+      "display_name": "River Market West"
+    },
+    {
+      "name": "North Loop 7th & Main",
+      "southbound_id": "1602",
+      "northbound_id": "1614",
+      "lat": "39.105590",
+      "long": "-94.583163",
+      "display_name": "North Loop"
+    },
+    {
+      "name": "Library 9th & Main",
+      "southbound_id": "1603",
+      "northbound_id": "1613",
+      "lat": "39.103137",
+      "long": "-94.583142",
+      "display_name": "Library"
+    },
+    {
+      "name": "Metro Center 12th & Main",
+      "southbound_id": "1604",
+      "northbound_id": "1612",
+      "lat": "39.099672",
+      "long": "-94.583250",
+      "display_name": "Metro Center"
+    },
+    {
+      "name": "Power & Light 14th & Main",
+      "southbound_id": "1605",
+      "northbound_id": "1611",
+      "lat": "39.096838",
+      "long": "-94.583389",
+      "display_name": "Power & Light"
+    },
+    {
+      "name": "Kauffman Center 16th & Main",
+      "southbound_id": "1606",
+      "northbound_id": "1610",
+      "lat": "39.094295",
+      "long": "-94.583520",
+      "display_name": "Kauffman Center"
+    },
+    {
+      "name": "Crossroads 19th & Main",
+      "southbound_id": "1607",
+      "northbound_id": "1609",
+      "lat": "39.090179",
+      "long": "-94.583713",
+      "display_name": "Crossroads"
+    },
+    {
+      "name": "Union Station Pershing & Main",
+      "southbound_id": "0",
+      "northbound_id": "1608",
+      "lat": "39.084607",
+      "long": "-94.584074",
+      "display_name": "Union Station"
+    }
+]
+  
